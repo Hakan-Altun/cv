@@ -139,5 +139,12 @@ h3{
     width: 15%;
     margin: 20px auto;
 }
+.contact-par{
+    width: 15%;
+    font-size:'Merriweather', serif; 
+    color: #40514E;
+    font-weight: bold;
+    margin: 20px auto;
+}
 
 
